@@ -55,12 +55,12 @@ python3 FinalTesting.py
 |   11   |  Resnet56Adam    |     [64, 128, 232, 268]    |    Adam     |   4.98M  |  93.37%     | [LINK](https://github.com/navoday01/ResNet5M-CIFAR10/blob/main/models/weights/Resnet56Adam.pt)                    |
 |   12   |  Resnet156       |     [64, 72, 74, 90]       |    SGD+M    |   4.99M  |  93.82%     |  [LINK](https://github.com/navoday01/ResNet5M-CIFAR10/blob/main/models/weights/Resnet156.pt)                   |
 
+## 📑 Report
+To read a detailed report, click [HERE](assets/Report.pdf)
+
 ## 📦 Conclusion
 
 The final model under 5 Million parameters and employing SGD achieved an accuracy of 95.55% on the CIFAR-10 test data set by systematically adjusting the hyperpameters and optimizers.
-
-## Report
-To read a detailed report, click [HERE](assets/Report.pdf)
 
 ## 👩‍⚖️ Acknowledgement
 
